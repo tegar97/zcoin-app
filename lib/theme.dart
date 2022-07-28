@@ -15,5 +15,6 @@ const Color backgroundWhite = Color(0xffFFFFFF);
 TextStyle headerTextStyle = GoogleFonts.poppins(color: primaryTextColor);
 TextStyle secondaryTextStyle = GoogleFonts.poppins(color: secondaryTextColor);
 TextStyle subtitleTextStyle = GoogleFonts.poppins(color: subtitleTextColor);
+TextStyle whiteTextStyle = GoogleFonts.poppins(color: Colors.white);
 
 
