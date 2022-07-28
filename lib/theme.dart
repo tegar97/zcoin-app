@@ -7,7 +7,8 @@ const Color primaryColor = Color(0xff0063F5);
 const Color primaryTextColor = Color(0xff212529);
 const Color secondaryTextColor = Color(0xff343A40);
 const Color subtitleTextColor = Color(0xff6C757D);
-const Color backgroundColorColor = Color(0xffF8F9FA);
+const Color backgroundColor = Color(0xffF8F9FA);
+const Color backgroundWhite = Color(0xffFFFFFF);
 
 
 
